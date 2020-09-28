@@ -77,6 +77,7 @@ class Comments implements \JsonSerializable
     public function jsonSerialize()
     {
         return [
+            'id'=>$this->getId(),
             'text'=>$this->getText(),
             'date'=>$this->getDate()
         ];
