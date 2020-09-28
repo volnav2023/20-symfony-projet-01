@@ -11,13 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="563007c7-cc8c-4d74-a2c9-29ab5c78db0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/routes/parameters.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/20-symfony-projet-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/20-symfony-projet-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Games.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Games.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,8 +118,18 @@
       <updated>1600433979179</updated>
       <workItem from="1600433980306" duration="2521000" />
       <workItem from="1600436545409" duration="2364000" />
-      <workItem from="1600932334772" duration="19759000" />
+      <workItem from="1600932334772" duration="20998000" />
+      <workItem from="1601275255618" duration="235000" />
+      <workItem from="1601275547924" duration="4624000" />
     </task>
+    <task id="LOCAL-00001" summary="Chaine bdd -&gt; Symfony -&gt; React -&gt; Tri fonctionne OK">
+      <created>1601039593856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601039593856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chaine bdd -&gt; Symfony -&gt; React -&gt; Tri fonctionne OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaine bdd -&gt; Symfony -&gt; React -&gt; Tri fonctionne OK" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2279" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1600941670846">
       <screen x="1920" y="0" width="1920" height="1050" />
@@ -154,5 +164,9 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/3840.0.1920.1050@1920.0.1920.1050" timestamp="1600436769288" />
+    <state x="2952" y="261" key="Vcs.Push.Dialog.v2" timestamp="1601039691468">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2952" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1019/1920.0.1920.1050/3840.0.1920.1050@1920.0.1920.1050" timestamp="1601039691468" />
   </component>
 </project>

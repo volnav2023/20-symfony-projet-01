@@ -118,13 +118,12 @@ class Games implements \JsonSerializable
 
     public function jsonSerialize()
     {
-        // TODO: Implement jsonSerialize() method.
         return [
 //            'id'=>$this->getId(),
             'title'=>$this->getNom(),
-            'date'=>$this->getDateSortie()->format('d-m-Y'),
+            'date'=>$this->getDateSortie()->format('d/m/Y'),
             'jaquette'=>$this->getJaquette(),
-//            'comments'=>$this->getComments()->toArray()
+            'comments'=>$this->getComments()->toArray()
         ];
     }
 }
