@@ -2,8 +2,8 @@
 
 namespace App\Controller;
 
-use App\Repository\GamesRepository;
 use App\Repository\CommentsRepository;
+use App\Repository\GamesRepository;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
@@ -36,8 +36,4 @@ class GameController extends AbstractController
         $entityManager->flush();
         return $this->json($comment);
     }
-    //
-    //    Syntaxe 2 plus condensée
-    //
-
 }

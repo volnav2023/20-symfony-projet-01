@@ -13,7 +13,6 @@
     <list default="true" id="563007c7-cc8c-4d74-a2c9-29ab5c78db0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/GameController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/GameController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Comments.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,8 @@
       <workItem from="1600436545409" duration="2364000" />
       <workItem from="1600932334772" duration="20998000" />
       <workItem from="1601275255618" duration="235000" />
-      <workItem from="1601275547924" duration="11296000" />
+      <workItem from="1601275547924" duration="13105000" />
+      <workItem from="1601900249238" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="Chaine bdd -&gt; Symfony -&gt; React -&gt; Tri fonctionne OK">
       <created>1601039593856</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601286510647</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Suppression commentaires fonctionne">
+      <created>1601305543460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601305543460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +164,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chaine bdd -&gt; Symfony -&gt; React -&gt; Tri fonctionne OK" />
     <MESSAGE value="Commentaires s'affichent OK" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commentaires s'affichent OK" />
+    <MESSAGE value="Suppression commentaires fonctionne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Suppression commentaires fonctionne" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2279" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1600941670846">
@@ -172,10 +180,10 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/3840.0.1920.1050@1920.0.1920.1050" timestamp="1600436769288" />
-    <state x="2952" y="261" key="Vcs.Push.Dialog.v2" timestamp="1601286513242">
+    <state x="2952" y="261" key="Vcs.Push.Dialog.v2" timestamp="1601305545611">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2952" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1019/1920.0.1920.1050/3840.0.1920.1050@1920.0.1920.1050" timestamp="1601039691468" />
-    <state x="2952" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1019/3840.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601286513242" />
+    <state x="2952" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1019/3840.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601305545611" />
   </component>
 </project>
